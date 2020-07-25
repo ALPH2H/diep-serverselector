@@ -1,2 +1,2 @@
 # diep-serverselector
-(./diep-serverSelector.png)[]
+![](./diep-serverSelector.png "preview")
