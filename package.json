@@ -1,0 +1,23 @@
+{
+  "name": "diep-serverselector",
+  "version": "1.0.0",
+  "description": "![](dieptool-ServerSelector.png \"preview\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cazka/diep-serverselector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cazka/diep-serverselector/issues"
+  },
+  "homepage": "https://github.com/Cazka/diep-serverselector#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

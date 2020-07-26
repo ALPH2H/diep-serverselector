@@ -1,0 +1,13 @@
+'use strict';
+
+const express = require('express');
+const app = express();
+
+const port = process.env.PORT ?? 3000;
+
+app.use('/', (req, res) => {
+    res.sendFile(__dirname + '/dieptool-ServerSelector.png');
+});
+app.listen(port, () => {
+    console.log(`listening on port: ${port}`);
+});
